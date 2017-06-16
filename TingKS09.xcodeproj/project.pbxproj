@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		CE56E6131EF3688300A71322 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE56E6121EF3688300A71322 /* main.swift */; };
 		CE56E61A1EF36B6B00A71322 /* MyClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE56E6191EF36B6B00A71322 /* MyClasses.swift */; };
+		CE56E61C1EF370AD00A71322 /* MyBrad.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE56E61B1EF370AD00A71322 /* MyBrad.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		CE56E60F1EF3688300A71322 /* TingKS09 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TingKS09; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE56E6121EF3688300A71322 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CE56E6191EF36B6B00A71322 /* MyClasses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyClasses.swift; sourceTree = "<group>"; };
+		CE56E61B1EF370AD00A71322 /* MyBrad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyBrad.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				CE56E6121EF3688300A71322 /* main.swift */,
+				CE56E61B1EF370AD00A71322 /* MyBrad.swift */,
 				CE56E6191EF36B6B00A71322 /* MyClasses.swift */,
 			);
 			path = TingKS09;
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE56E61A1EF36B6B00A71322 /* MyClasses.swift in Sources */,
+				CE56E61C1EF370AD00A71322 /* MyBrad.swift in Sources */,
 				CE56E6131EF3688300A71322 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
